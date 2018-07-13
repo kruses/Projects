@@ -14,7 +14,6 @@ namespace PsHelloAzure
     {
         public static void Main(string[] args)
         {
-            int i = 1;
             BuildWebHost(args).Run();
         }
 

@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <UserSecretsId>aspnet-PsHelloAzure-8F49DA8F-E2A3-4DCD-AA18-52114B1FD907</UserSecretsId>
+    <AssemblyName>PsHelloAzuresk</AssemblyName>
+    <RootNamespace>PsHelloAzure</RootNamespace>
   </PropertyGroup>
 
 

@@ -7,13 +7,14 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-
+ 
 namespace PsHelloAzure
 {
     public class Program
     {
         public static void Main(string[] args)
         {
+            int i = 1;
             BuildWebHost(args).Run();
         }
 
